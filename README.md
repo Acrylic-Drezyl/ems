@@ -152,11 +152,7 @@ Several SQL queries were written to analyze the data and retrieve useful informa
 ## 1. Employee Full Name and Email
 This query combines the employee’s first name and last name to create a full name and then shows their email address.
 
-Screenshot
 
-[![Employee Full Name and Email](Screenshots/recordofemployeesfullnameandemail.JPG)](Screenshots/recordofemployeesfullnameandemail.JPG)
-
-Lesson Learned
 - We can combine two columns (first name and last name) to create a full name.
 - The query shows the email address for every employee.
 - This kind of query can help a company quickly create a contact list of employees.
@@ -176,9 +172,7 @@ Lesson Learned
 - This query helps managers quickly know the current workforce size.
 - It can also help HR track how many employees are still employed.
 
-Screenshot
 
-[![Active Employees](Screenshots/active_employees_only.JPG)](Screenshots/active_employees_only.JPG)
 
 ## 3. Employees Who Are Absent
 There are 58 employees marked as absent in the attendance records.
@@ -188,9 +182,6 @@ Lesson Learned
 - Attendance data can help HR monitor absenteeism.
 - Managers can use this information to identify attendance problems early.
 
-Screenshot
-
-[![Employees Who Are Absent](Screenshots/employees_who_are_absent.JPG)](Screenshots/employees_who_are_absent.JPG)
 
 ## 4. Active Employees in the Finance Department
 There are 57 active employees in the Finance department.
@@ -200,8 +191,6 @@ Lesson Learned
 - This query helps management understand staff distribution across departments.
 - It can help HR decide if a department needs more or fewer employees.
 
-Screenshot
-[![Active Employees in the Finance Department](Screenshots/employees_from_the_finance_department_who_are_still_active.JPG)](Screenshots/employees_from_the_finance_department_who_are_still_active.JPG)
 
 ## 5. Employees Paid Above 100,000
 There are 56 employee records earning above 100,000.
@@ -211,8 +200,6 @@ Lesson Learned
 - This query helps identify higher-paid employees.
 - It can help management analyze salary structures and compensation levels.
 
-Screenshot
-[![Employees Paid Above 100,000](Screenshots/employee_records_who_are_paid_above_one_hundred_thousand.JPG)](Screenshots/employee_records_who_are_paid_above_one_hundred_thousand.JPG)
 
 Screenshots/employee_records_who_are_paid_above_one_hundred_thousand.JPG
 
@@ -224,8 +211,7 @@ Lesson Learned
 - It allows managers to quickly view staff details within selected departments.
 - This can help when preparing department reports or internal audits.
 
-Screenshot
-[![Employees from HR and Finance Departments](Screenshots/information_about_employees_from_the_HR_and_Finance_department.JPG)](Screenshots/information_about_employees_from_the_HR_and_Finance_department.JPG)
+l
 
 ## 7. Employees Who Are Not Active
 There are 54 employees who are not active.
@@ -236,7 +222,6 @@ Lesson Learned
 - HR can use this information to track employee turnover.
 
 Screenshot
-[![Employees Who Are Not Active](Screenshots/Export_records_of_employees_aren’t_active.JPG)](Screenshots/Export_records_of_employees_aren’t_active.JPG)
 
 
 ## 8. Attendance Records for January 2026
@@ -247,9 +232,6 @@ Lesson Learned
 - This helps track monthly attendance patterns.
 - Management can use this information to analyze employee participation and consistency.
 
-Screenshot
-[![Attendance Records for January 2026](Screenshots/attendance_records_for_Jan_2026.JPG)](Screenshots/attendance_records_for_Jan_2026.JPG)
-
 
 ## 9. Active Employees from the Finance Department
 There are 52 active employees in the Finance department.
@@ -259,8 +241,7 @@ Lesson Learned
 - This helps managers see how many employees are currently active in a specific department.
 - The information can help in department workforce planning.
 
-Screenshot
-[![Active Employees from the Finance Department](Screenshots/records_of_employees_from_finance_department_and_are_still_active.JPG)](Screenshots/records_of_employees_from_finance_department_and_are_still_active.JPG)
+
 
 ## 10. Order Employees by last name alphabetically
 Ordering Employees by last name alphabetical, '42', 'Owen', 'Adams', ranks top
@@ -269,8 +250,6 @@ Lesson Learned
 - The query sorts employees from A to Z by their last name.
 - Sorting makes it easier to find employees quickly in large lists.
 
-Screenshot
-[![Order Employees by last name alphabetically](Screenshots/Order_Employees_by_last_name_in_alphabetically.JPG)](Screenshots/Order_Employees_by_last_name_in_alphabetically.JPG)
 
 ## 11. Records of employees with the Highest Salaries First
 There is a records of 50 employees that receives the Highest Salaries
@@ -279,8 +258,6 @@ Lesson Learned
 - Employees are arranged from the highest-paid employee to the lowest-paid employee.
 - This helps managers see how salaries are distributed across employees.
 
-Screenshot
-[![Records of employees with the Highest Salaries First](Screenshots/Records_of_employees_with_the_Highest_Salaries_First.JPG)](Screenshots/Records_of_employees_with_the_Highest_Salaries_First.JPG)
 
 
 ## 12. Unique Departments in the organization
@@ -289,9 +266,6 @@ There are 49 Unique Departments in the organization
 Lesson Learned
 - The query removes duplicate department records.
 - It shows a clean list of all departments in the company.
-
-Screenshot
-[![Unique Departments in the organization](Screenshots/Unique_Departments.JPG)](Screenshots/Unique_Departments.JPG)
 
 
 ## 13. Top 5 Performing Employees
@@ -310,8 +284,6 @@ Mia	Hernandez
 Sophia	Miller
 Harper	Taylor
 
-Screenshot
-[![Top 5 Performing Employees](Screenshots/Top_5_Performers.JPG)](Screenshots/Top_5_Performers.JPG)
 
 
 ## 14. Next 5 Employees
@@ -330,8 +302,6 @@ Harper	Taylor
 Mia	Hernandez
 Sophia	Miller
 
-Screenshot
-[![Next 5 Employees](Screenshots/Next_5_Employees_(Pagination).JPG)](Screenshots/Next_5_Employees_(Pagination).JPG)
 
 
 ---
@@ -442,4 +412,4 @@ Based on this project, the following improvements can enhance employee data anal
 
 
 ## Author
-U. Edward
+Ubulom  A. Edward
